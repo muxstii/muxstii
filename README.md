@@ -1,19 +1,32 @@
-# Hi, I'm Mustafa 👋
+# Mustafa Al Qaysi
 
-IT security student at **Technische Hochschule Mittelhessen** (Organisation & IT Security).
-Focused on **Blue Team / SOC**, with a growing interest in **Cloud Security**.
+**IT Security Student · Blue Team / SOC · Cloud Security**
 
-## 🔧 Skills & Tools
-- **Recon & Web Testing:** Nmap, Gobuster, Nikto, Burp Suite
-- **Security Concepts:** Threat Modelling, Network Security
-- **Currently learning:** SIEM (Wazuh / Splunk), Log Analysis, Detection Engineering, Linux
+I study Organisation & IT Security at Technische Hochschule Mittelhessen (THM), with a focus on security operations, threat detection and cloud security.
 
-## 🚧 Currently Working On
-- Building a home SOC lab with a SIEM and custom detection rules
-- Blue Team rooms on TryHackMe
+### Focus Areas
 
-## 🎯 Looking For
-Working student positions or internships in **IT Security / SOC** (Germany or remote).
+- Security Monitoring & Incident Response
+- Log Analysis & Detection Engineering
+- Cloud Security
 
-## 📫 Connect
+### Tools & Technologies
+
+| Area | Tools |
+| --- | --- |
+| Reconnaissance & Web Testing | Nmap, Gobuster, Nikto, Burp Suite |
+| Security Concepts | Threat Modelling, Network Security |
+| Currently Learning | Wazuh, Splunk, Linux |
+
+### Current Work
+
+- **Home SOC Lab:** SIEM deployment with custom detection rules
+- **Blue Team Training:** hands-on labs on TryHackMe
+
+### Open To
+
+Working student positions and internships in IT Security / SOC, in Germany or remote.
+
+### Contact
+
 [LinkedIn](https://www.linkedin.com/in/mustafa-al-qaysi)
